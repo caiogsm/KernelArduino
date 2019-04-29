@@ -122,6 +122,7 @@ void KernelStart()
           }
         }
       }
+      TemporizadorEstourou = NAO;
     }
   }
 }//end vKernelStart
